@@ -4,7 +4,7 @@
 ## **Developer**: ## [Ngoc Doan](https://github.com/ndoan24) and [Marvin Lara](https://github.com/Marvoro53)
 ## **Place:** *Denver, CO*
 ## **Institute: Emily Griffith Technical College
-## **Title**: Group Final Full-Stack Project
+## **Title**: Book Library Group Final Full-Stack Project
 
 
 ## **Date: April 22, 2021
